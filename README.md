@@ -14,7 +14,7 @@ I'm a computer science student who usually works with backend systems, though, I
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="Git" />
 </div>
 
-###### ⌗ 📫 **find me:**  [on the internet](https://flux6174.github.io/) • [on leetcode](https://leetcode.com/u/flux144/)
+###### ⌗ 📫 **find me:**  [on the internet](https://flux6174.github.io/env) • [on leetcode](https://leetcode.com/u/flux144/)
 
 <div align="left">
 
