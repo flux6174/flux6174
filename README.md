@@ -2,7 +2,7 @@
 
 #### 👋 hello!
 
-i'm a computer science student who usually likes working with backend systems, though, I probably spend unreasonable amount of time tweaking my developer environment and pc. I'm also exploring distributed systems, systems programming and open source. I enjoy building things and learning how software works beneath the abstractions. Feel free to poke around here if curious!
+i'm a computer science student who usually likes working with backend systems, though, I probably spend unreasonable amount of time tweaking my developer environment, tooling and pc. I'm also exploring distributed systems, systems programming and open source. I enjoy building things and learning how software works beneath the abstractions. Feel free to poke around here if curious!
 
 ###### ⌗ ⚡ **tech stack:**
 <div align="left">
